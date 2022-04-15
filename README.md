@@ -7,7 +7,7 @@
 ## 📫 How to reach me ...
 
 <p align="left">
-  <a href="goradianishant2000@gmail.com"><img alt="Email" title="Email" src="https://img.icons8.com/color/344/gmail-new.png" height="35" width="35/></a>
+  <a href="goradianishant2000@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nishant-goradia-4b3090174/ "><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/Nishant123446 "><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/goradianishant/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -66,7 +66,7 @@
                         src="https://img.icons8.com/color/48/000000/firebase.png"" /></a>
             </td>
             <td><a href="#"><img alt="Superbase" title="Superbase" height="28px"
-                        src="https://ui.supabase.io/images/logo-light.png" /></a>
+                        src="https://www.nuget.org/profiles/supabase/avatar?imageSize=512" /></a>
             </td>
           
              
@@ -74,17 +74,17 @@
     </tbody>
 </table>
 
-Specilized in
-● SOFTWARE DEVELOPMENT (ANDROID,FLUTTER,REACT-NATIVE)
-● COMPUTER BUILDS(ASSEMBLING)
-● OPERATING SYSTEMS (WINDOWS, LINUX)
-● REMOTE CONNECTION AND VIRTUAL MACHINES
-● COMPUTER NETWORKING AND SOFTWARE MANAGEMENT
-● TROUBLESHOOTING AND CUSTOMER SERVICE
-● ROUTING CONCEPTS WITH VPNS AND PROXIES
-● PACKAGE AND SOFTWARE MANAGEMENT
-● PROCESS MANAGEMENT AND RESOURCE MONITORING
-● SYSTEMS ADMINISTRATION IMPLEMENTING/MANAGING DIRECTORY SERVICES
-● DATA MANAGEMENT AND RECOVERY WITH IT SECURITY
-● CRYPTOLOGY/ENCRYPTION-DRYCPTION
-● NETWORK SECURITY
+## 🖥️ Specilized in
+- SOFTWARE DEVELOPMENT (ANDROID,FLUTTER,REACT-NATIVE)
+- COMPUTER BUILDS(ASSEMBLING)
+- OPERATING SYSTEMS (WINDOWS, LINUX)
+- REMOTE CONNECTION AND VIRTUAL MACHINES
+- COMPUTER NETWORKING AND SOFTWARE MANAGEMENT
+- TROUBLESHOOTING AND CUSTOMER SERVICE
+- ROUTING CONCEPTS WITH VPNS AND PROXIES
+- PACKAGE AND SOFTWARE MANAGEMENT
+- PROCESS MANAGEMENT AND RESOURCE MONITORING
+- SYSTEMS ADMINISTRATION IMPLEMENTING/MANAGING DIRECTORY SERVICES
+- DATA MANAGEMENT AND RECOVERY WITH IT SECURITY
+- CRYPTOLOGY/ENCRYPTION-DRYCPTION
+- NETWORK SECURITY
