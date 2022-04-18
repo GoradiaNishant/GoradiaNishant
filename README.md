@@ -38,7 +38,7 @@
 
 ### 👨 UI/UX Projects <Br>
    * News App - Android App Redesign (Prototype Only)<Br>
-   * Mosuc App - Music App (Prototype Only)<br>
+   * Music App - Music App (Prototype Only)<br>
    * Hotel mangement Software (Wireframe & Prototype) <br>
    * Ecommerce App - The Android app (Wireframe & Prototype) <Br>
     
