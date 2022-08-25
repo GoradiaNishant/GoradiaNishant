@@ -19,8 +19,8 @@
 - 👋 Development areas are  📱 Android(Kotlin/Java), Flutter(Dart), ReactNative
 - 🎨 A self-taught UI designer
 - 📺 Blender 3d Modeling and Animations
-- 🎓 I'm a Computer Engineering student (B.tech in U.v Patel College of Engineering)
-- 🎉 I Got #AndroidDevChallenge PRIZE with #JetpackCompose! 
+- 🎓 B.Tech Engineer from <a href="https://www.ganpatuniversity.ac.in">Ganpat University(U.v Patel College of Engineering) </a>
+- 🎉 Achieved #AndroidDevChallenge PRIZE with #JetpackCompose!... and more.
 
 
 <Br>
