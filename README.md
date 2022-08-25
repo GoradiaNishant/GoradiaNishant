@@ -15,7 +15,7 @@
   
 ## 📖 About me
 
-- 👨‍💼 Self Employed at PC-Scape as CEO,CFO
+- 👨‍💼 Software Associate at <a href="https://www.drcsystems.com/">DrcSystems India Limited </a>
 - 👋 Development areas are  📱 Android(Kotlin/Java), Flutter(Dart), ReactNative
 - 🎨 A self-taught UI designer
 - 📺 Blender 3d Modeling and Animations
