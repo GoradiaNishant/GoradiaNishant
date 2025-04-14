@@ -15,7 +15,7 @@
   
 ## 📖 About me
 
-- 👨‍💼 Software Engineer at <a href="https://www.drcsystems.com/">DrcSystems India Limited </a>
+- 👨‍💼 Software Engineer at <a href="https://www.thetatechnolabs.com/">Theta Technolabs Pvt. Ltd.</a>
 - 👋 Development areas are  📱 Android(Kotlin/Java), Flutter(Dart), ReactNative
 - 🎨 A self-taught UI designer
 - 📺 Blender 3d Modeling and Animations
